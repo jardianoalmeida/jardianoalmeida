@@ -7,7 +7,7 @@ I am motivated by the constant transformations that life requires, guided by the
 
 
 ## Find me around the web 🌎:
-- 🌎 Website: [http://adrianopereira.github.io](https://www.jardiano.com.br) 
-- ✉️ E-mail: [adriano.almeida@inpe.br](mailto:ajardianoalmeida@inpe.br)
-- 👨🏽‍🔬 Academic profile: [http://lattes.cnpq.br/7223840348193655](http://lattes.cnpq.br/9721303539200033)
-- 💼 Professional profile: [https://www.linkedin.com/in/-adrianoalmeida](https://www.linkedin.com/in/jardianoalmeida) 
+- 🌎 Website: [https://www.jardiano.com.br](https://www.jardiano.com.br) 
+- ✉️ E-mail: [jardiano.almeida@gmail.com](mailto:jardiano.almeida@gmail.com)
+- 👨🏽‍🔬 Academic profile: [http://lattes.cnpq.br/9721303539200033](http://lattes.cnpq.br/9721303539200033)
+- 💼 Professional profile: [https://www.linkedin.com/in/jardianoalmeida](https://www.linkedin.com/in/jardianoalmeida) 
