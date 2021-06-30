@@ -4,6 +4,7 @@ I am motivated by the constant transformations that life requires, guided by the
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=jardianoalmeida&show_icons=true&hide_border=true)
 ![Langs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jardianoalmeida&layout=compact)
+![Trophy's github](https://github-profile-trophy.vercel.app/?username=jardianoalmeida&column=3&margin-w=15&margin-h=15)
 
 
 ## Find me around the web 🌎:
